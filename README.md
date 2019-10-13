@@ -105,7 +105,7 @@ FlutterMoneyFormatter fmf = new FlutterMoneyFormatter(
         decimalSeparator: ',',
         symbolAndNumberSeparator: ' ',
         fractionDigits: 3,
-        compactFormatType: CompactFormatType.sort
+        compactFormatType: CompactFormatType.short
     )
 )
 ```
